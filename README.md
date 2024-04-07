@@ -5,3 +5,4 @@ Dive into the fundamentals of Java programming with our collection of basic Java
     2nd.java        -  /n statement
     3rd.java        -  println() statement
     4th.jave        -  integer output
+    5th.jave        -  mathematical operations
