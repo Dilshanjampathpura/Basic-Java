@@ -6,4 +6,5 @@ Dive into the fundamentals of Java programming with our collection of basic Java
     3rd.java        -  println() statement
     4th.jave        -  integer output
     5th.jave        -  mathematical operations
-    6th,java        -  variables
+    6th.java        -  variables
+    7th.java        -  variables
