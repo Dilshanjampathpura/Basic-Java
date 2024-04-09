@@ -6,4 +6,4 @@ public class Main {
       System.out.println(2 * 3);
       System.out.print(9 / 3);  
     }
-  }
+}
