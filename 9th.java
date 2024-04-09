@@ -8,4 +8,4 @@ public class Main {
         int x = (int)(Math.random() * 21);  // select random value between 0 to 20
         System.out.println(x);
     }
-  }
+}
