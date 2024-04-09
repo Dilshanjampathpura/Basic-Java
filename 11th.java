@@ -13,5 +13,5 @@ public class Main {
         System.out.println("x and y are equal numbers.");
       }
     }
-  }
+}
   
