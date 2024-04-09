@@ -10,3 +10,4 @@ Dive into the fundamentals of Java programming with our collection of basic Java
     7th.java        -  variables
     8th.java        -  variables with mathematical operations
     9th.java        -  Math
+    10th.java       -  Boolean (true,false)
