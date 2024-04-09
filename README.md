@@ -8,3 +8,4 @@ Dive into the fundamentals of Java programming with our collection of basic Java
     5th.jave        -  mathematical operations
     6th.java        -  variables
     7th.java        -  variables
+    7th.java        -  variables with mathematical operations
