@@ -1,3 +1,4 @@
+//arrays, index, length of array
 public class Main {
     public static void main(String[] args) {
       String[] english = {"reding", "writing", "listning", "speaking"};
