@@ -13,3 +13,5 @@ Dive into the fundamentals of Java programming with our collection of basic Java
     10th.java       -  Boolean (true,false)
     11th.java       -  if,else if,else
     12th.java       -  switch
+    12th.java       -  while loop
+    12th.java       -  do while loop
