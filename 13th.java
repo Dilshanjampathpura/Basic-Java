@@ -1,4 +1,4 @@
-// while loop
+// while loop(print 0 to 10)
 public class Main {
     public static void main(String[] args) {
       int x = 0;
