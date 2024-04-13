@@ -19,3 +19,5 @@ Dive into the fundamentals of Java programming with our collection of basic Java
     16th.java       -  arrays
     17th.java       -  arrays with for loop
     18th.java       -  multi-dimensional array
+    19th.java       -  java methods
+    18th.java       -  multi-dimensional array
