@@ -10,3 +10,5 @@ public class Main {
       university("Moratuwa");
     }
 }
+// uniname is the parameter.
+// Colombo, Jaffna, Rajarata, Moratuwa, are arguments of the code.
