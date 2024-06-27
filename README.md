@@ -21,3 +21,13 @@ Dive into the fundamentals of Java programming with our collection of basic Java
     18th.java       -  multi-dimensional array
     19th.java       -  java methods
     20th.java       -  java methods(parameters and arguments)
+    21st.java       -  java methods(int and double)
+    22nd.java       -  java methods(int and double adding)
+    23rd.java       -  
+    24th.java       -  
+    25th.java       -  
+    26th.java       -  
+    27th.java       -  
+    28th.java       -  
+    29th.java       -  
+    30th.java       -  
